@@ -1,0 +1,15 @@
+#cars:
+#  - make: Toyota
+#    model: Corolla
+#    color: Blue
+#    rims: 18
+#
+#  - make: BMW
+#    model: M3
+#    color: Red
+#    rims: 20
+#
+#  - make: Fiat
+#    model: Panda
+#    color: Green
+#    rims: 16
