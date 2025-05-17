@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-A console-based Java 21 application that performs basic CRUD operations on documents stored in Google Firestore using Firebase Admin SDK. The project includes a modular architecture and a full test suite to ensure maintainability and reliability.
+A console-based Java 21 application that performs basic CRUD operations on documents stored in Google Firestore using Firebase Admin SDK. The project includesa full test suite to ensure maintainability and reliability.
 
 ## Table of Contents
 
